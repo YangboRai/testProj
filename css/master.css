@@ -908,6 +908,43 @@ font-weight: 300;}
   }
 }
 
+@media screen and (max-width:1300px) {
+  .testimonial-fade{
+    display: none;
+  }
+
+  #testimonial{
+    display: none;
+  }
+
+
+  .service-list-inner{
+    width:90%;
+  }
+
+  .about-us-inner{
+    width:90%;
+  }
+
+  .aolbg-cover{
+    margin-left: 345px;
+  }
+
+  .about-text-container {
+      margin-top: 10%;
+      margin-left: 0;
+    }
+
+    #about-us{
+      height:auto;
+      display: table;
+    }
+
+    .about-us-left {
+    margin-bottom: 40px;
+}
+}
+
 
 @media screen and (max-width:450px) {
 
